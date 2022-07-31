@@ -1,7 +1,7 @@
 ### Hi there 👋 - I'm Slyris/Milerius a Blockchain Architect expert in C++ and Golang
 
 
-- 🔭 I’m currently working on [AtomicDEX Desktop](https://github.com/KomodoPlatform/atomicDEX-Desktop), [MM2 tools](https://github.com/Milerius/mm2-client)
+- 🔭 I’m currently working on [Trust Wallet Core](https://github.com/trustwallet/wallet-core)
 - 🌱 I’m expert in C++, Golang
 - 🍁 I'm currently learning Nim & Flutter
 - 💬 Ask me about C++, Golang, Backend development and generics algorithm
