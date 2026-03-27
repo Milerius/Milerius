@@ -59,20 +59,20 @@ jobs:
           path: profile/pin-mantis-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - mm2-client (dark)
+      - name: Generate pin card - wallet-core (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Milerius&repo=mm2-client&theme=tokyonight&hide_border=true
-          path: profile/pin-mm2-dark.svg
+          options: username=trustwallet&repo=wallet-core&theme=tokyonight&hide_border=true&show_owner=true
+          path: profile/pin-wallet-core-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card - mm2-client (light)
+      - name: Generate pin card - wallet-core (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=Milerius&repo=mm2-client&hide_border=true
-          path: profile/pin-mm2-light.svg
+          options: username=trustwallet&repo=wallet-core&hide_border=true&show_owner=true
+          path: profile/pin-wallet-core-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
