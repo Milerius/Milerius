@@ -34,10 +34,18 @@ Currently building **[Mantis](https://github.com/Milerius/Mantis)** — a `no_st
 
 <p align="center">
   <a href="https://github.com/Milerius/Mantis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Milerius&repo=Mantis&theme=tokyonight&hide_border=true" />
+    <picture>
+      <source srcset="profile/pin-mantis-dark.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="profile/pin-mantis-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="center" src="profile/pin-mantis-dark.svg" />
+    </picture>
   </a>
   <a href="https://github.com/Milerius/mm2-client">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Milerius&repo=mm2-client&theme=tokyonight&hide_border=true" />
+    <picture>
+      <source srcset="profile/pin-mm2-dark.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="profile/pin-mm2-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="center" src="profile/pin-mm2-dark.svg" />
+    </picture>
   </a>
 </p>
 
@@ -45,25 +53,13 @@ Currently building **[Mantis](https://github.com/Milerius/Mantis)** — a `no_st
 
 <p align="center">
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=milerius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=milerius&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=milerius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged" />
+    <source srcset="profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="profile/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200" align="center" src="profile/stats-dark.svg" />
   </picture>
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=milerius&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=320"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=milerius&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=320"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milerius&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=320" />
+    <source srcset="profile/langs-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="profile/langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200" align="center" src="profile/langs-dark.svg" />
   </picture>
 </p>
