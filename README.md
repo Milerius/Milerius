@@ -24,7 +24,7 @@ Currently building **[Mantis](https://github.com/Milerius/Mantis)** — a `no_st
 
 - **Director of Engineering** at CrossBar Inc. — semiconductor manufacturing
 - **Staff Engineering Manager** at Trust Wallet (Binance) — maintained [wallet-core](https://github.com/trustwallet/wallet-core), wallet infrastructure serving millions
-- **Software Developer / Project Manager** at Komodo — blockchain architecture, DeFi, DEX
+- **Senior Software Engineer** at Komodo — built [AtomicDEX](https://atomicdex.io), the first cross-chain exchange leveraging atomic swaps
 - **C++ HFT Software Engineer** at BNP Paribas — high-frequency trading modules, FIX protocol, low-latency financial infrastructure
 - **Low-Latency C++ 5G Developer** at Nokia — real-time 5G base station software on embedded hardware
 - **EPITECH Paris** — Master's in Computer Science
