@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sztergbaum Roman's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 249, Total Commits  : 21481, Total PRs: 1220, Total PRs Merged: 1111, Total PRs Reviewed: 0, Total Issues: 321, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 249, Total Commits  : 21520, Total PRs: 1221, Total PRs Merged: 1112, Total PRs Reviewed: 0, Total Issues: 321, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 35.934845756717635;
+        stroke-dashoffset: 35.934845335965434;
       }
     }
   
